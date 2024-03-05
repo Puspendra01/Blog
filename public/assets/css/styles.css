@@ -1,7 +1,7 @@
 h1 {font-size: 2.4rem;margin-bottom: 30px;}
-.bg-blue {background-color:#4d8395}
+.bg-blue {background-color:#bc49a7}
 .navbar-brand img { height:50px;width: 100px; }
-.navbar-dark .navbar-nav .nav-link {color:rgb(213, 213, 17);font-weight: 700;font-size: 20px;}
+.navbar-dark .navbar-nav .nav-link {color:rgb(31, 161, 221);font-weight: 700;font-size: 20px;}
 .navbar-dark .navbar-nav .active .nav-link {color:rgb(17, 6, 6);}
 .banner img {width:100%;}
 @media (max-width:700px){
